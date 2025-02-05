@@ -7,6 +7,7 @@ import { BiSearch } from "react-icons/bi";
 import { HiHome } from "react-icons/hi";
 import Box from "./Box";
 import SidebarItem from "./Sidebaritems";
+import Library from "./Library";
 
 
 interface SidebarProps {

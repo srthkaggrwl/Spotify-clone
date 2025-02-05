@@ -1,3 +1,5 @@
+// We are not using use client because this does not depend on that. It is the home and search button
+
 import { IconType } from "react-icons";
 import Link from "next/link";
 import { twMerge } from "tailwind-merge";
