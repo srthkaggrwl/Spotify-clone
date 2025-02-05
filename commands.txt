@@ -1,0 +1,5 @@
+
+npx create-next-app@latest spotify-clone
+npm run dev
+npm install react-icons
+npm i tailwind-merge
