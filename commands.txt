@@ -24,3 +24,5 @@ PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone>
 
  npm i @supabase/auth-helpers-nextjs
  npm i @supabase/auth-helpers-react
+
+ npm i stripe
