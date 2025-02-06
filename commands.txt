@@ -20,3 +20,7 @@ Token cli_DESKTOP-GI2VBEE\Sarthak@DESKTOP-GI2VBEE_1738858613 created successfull
 You are now logged in. Happy coding!
 PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone> npx supabase gen types typescript --project-id sehqwfeyjcqzbijuuvgt --schema public > types_db.ts
 PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone> 
+
+
+ npm i @supabase/auth-helpers-nextjs
+ npm i @supabase/auth-helpers-react
