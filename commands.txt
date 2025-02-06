@@ -3,3 +3,20 @@ npx create-next-app@latest spotify-clone
 npm run dev
 npm install react-icons
 npm i tailwind-merge
+
+
+documentation
+https://supabase.com/docs/guides/api/rest/generating-types
+
+npm i supabase@">=1.8.1" --save-dev
+npx supabase login
+Hello from Supabase! Press Enter to open browser and login automatically.
+
+Here is your login link in case browser did not open https://supabase.com/dashboard/cli/login?session_id=6bd1c36a-dc9e-49e2-afff-6ab0c403a58c&token_name=cli_DESKTOP-GI2VBEE\Sarthak@DESKTOP-GI2VBEE_1738858613&public_key=04eb55de89fcc99f6e7fd1ecef0fcfab6ecaa75f81077461ea6087291be5c
+
+Enter your verification code: f31b2db7
+Token cli_DESKTOP-GI2VBEE\Sarthak@DESKTOP-GI2VBEE_1738858613 created successfully.
+
+You are now logged in. Happy coding!
+PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone> npx supabase gen types typescript --project-id sehqwfeyjcqzbijuuvgt --schema public > types_db.ts
+PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone> 
