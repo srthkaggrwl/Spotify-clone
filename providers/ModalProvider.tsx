@@ -4,7 +4,7 @@
 
 "use client"; // Ensures the file runs only on the client side
 
-import Modal from "@/components/Modal"; // Importing the Modal component
+import AuthModal from "@/components/AuthModal";
 import { useEffect, useState } from "react"; // Importing hooks for state and side effects
 
 const ModalProvider = () => {
@@ -24,14 +24,7 @@ const ModalProvider = () => {
     return (
         <>
             {/* Rendering the Modal component once the component has mounted */}
-            <Modal 
-                title="Test Modal"
-                description="Test Description"
-                isOpen
-                onChange={() => {}}
-            >
-                Test Children
-            </Modal>    
+            <AuthModal />
         </>
     );
 }

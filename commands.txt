@@ -26,3 +26,8 @@ PS C:\Users\Sarthak\Desktop\Projects\SpotifyClone\spotify-clone>
  npm i @supabase/auth-helpers-react
 
  npm i stripe
+ npm i zustand
+ npm i @radix-ui/react-dialog
+
+ npm i @supabase/auth-ui-react
+  npm i @supabase/auth-ui-shared
